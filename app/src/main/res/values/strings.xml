@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Metronome2</string>
+    <string name="action_settings">Settings</string>
+    <string name="startMetronome">Start</string>
+    <string name="stopMetronome">Stop</string>
+    <string name="defaultBPM">120</string>
+    <string name="currBPM">Current BPM: </string>
+    <string name="timsig">Time Signature: </string>
+
+
+</resources>
